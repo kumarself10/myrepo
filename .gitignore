@@ -1,0 +1,6 @@
+*.log
+*.tmp
+j*
+*.dll
+*.war
+*.exe
